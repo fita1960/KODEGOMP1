@@ -79,7 +79,7 @@ form {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #a3162e;
+  background-color: red;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -87,5 +87,5 @@ form {
 }
 
 #myBtn:hover {
-  background-color: #6c757d;
+  background-color: grey;
 }

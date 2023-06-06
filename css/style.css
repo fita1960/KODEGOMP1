@@ -70,7 +70,7 @@ form {
   font-size: 17px;
 }
 
-.myBtn {
+#myBtn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -87,7 +87,7 @@ form {
   border: solid 1px;
 }
 
-.myBtn:hover {
+#myBtn:hover {
   background-color: red;
   color: white;
   border: none;
